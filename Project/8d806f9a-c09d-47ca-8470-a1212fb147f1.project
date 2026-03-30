@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "id": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+    "contentHash": "fvasCarHnDDqnWtIdlM4M796NbsaWJNrlFiFMkluc\u002Bs=",
+    "platformVersion": "10.0.0",
+    "revisionId": "a558ab76-20ec-4ace-b68b-2fdf476ed0f9",
+    "updatedAt": "0001-01-01T00:00:00Z",
+    "updatedBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "createdAt": "2026-03-30T11:08:16Z",
+    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "branch": "main"
+  },
+  "content": {
+    "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+    "description": "methods for home stuff",
+    "associatedUsers": [
+      "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612"
+    ],
+    "actionGroups": [],
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+    "name": "Home Methods"
+  }
+}
