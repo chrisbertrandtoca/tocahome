@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "6f6363ce-a165-4f54-97fb-1baeecee69ae",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-04-28T12:54:05Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "pageId": "6f6363ce-a165-4f54-97fb-1baeecee69ae",
+    "dashBoardId": "69f06fe5d9685636390a5c5d",
+    "title": "Newpl",
+    "layout": "{\u0022version\u0022:\u00222\u0022,\u0022rootComponentId\u0022:\u0022c2f7b941-35fc-4152-8cc4-b4c2d1c502f9\u0022,\u0022components\u0022:{\u0022c2f7b941-35fc-4152-8cc4-b4c2d1c502f9\u0022:{\u0022id\u0022:\u0022c2f7b941-35fc-4152-8cc4-b4c2d1c502f9\u0022,\u0022definitionId\u0022:\u0022@tocabot/app/page-root\u0022,\u0022options\u0022:{},\u0022slots\u0022:{\u0022root\u0022:[]},\u0022classes\u0022:{\u0022root\u0022:[]}}},\u0022viewports\u0022:{\u0022414\u0022:[],\u0022768\u0022:[],\u00221280\u0022:[],\u00221440\u0022:[]}}",
+    "parameters": [],
+    "deleted": false,
+    "version": "0.0.0",
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "6f6363ce-a165-4f54-97fb-1baeecee69ae",
+    "name": "Newpl"
+  }
+}

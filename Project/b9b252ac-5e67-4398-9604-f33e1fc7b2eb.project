@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "b9b252ac-5e67-4398-9604-f33e1fc7b2eb",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-04-28T07:35:06Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "b9b252ac-5e67-4398-9604-f33e1fc7b2eb",
+    "description": "adfmk",
+    "deactivated": false,
+    "actionGroups": [],
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "b9b252ac-5e67-4398-9604-f33e1fc7b2eb",
+    "name": "home automation"
+  }
+}

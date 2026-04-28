@@ -1,4 +1,110 @@
 {
   "version": 1,
-  "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a"
+  "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+  "resources": [
+    {
+      "type": "GitProjectResource",
+      "id": "b9b252ac-5e67-4398-9604-f33e1fc7b2eb",
+      "path": "Project/b9b252ac-5e67-4398-9604-f33e1fc7b2eb.project",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "22e3e57d-5043-4490-956c-fca01406ce16",
+      "path": "Activity/22e3e57d-5043-4490-956c-fca01406ce16.activity",
+      "dependencies": {
+        "actionDetails": [
+          {
+            "definitionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+            "name": "Debug Value",
+            "version": "1.0.2"
+          },
+          {
+            "definitionId": "89d89be6-4d2c-44e0-8f63-e4ea5b53e3bf",
+            "name": "C#",
+            "version": "1.0.5"
+          },
+          {
+            "definitionId": "4afc0589-d3bf-49d3-80e3-240be2146dcf",
+            "name": "Delay",
+            "version": "1.0.1"
+          }
+        ],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitAppResource",
+      "id": "69f06fe5d9685636390a5c5d",
+      "path": "App/69f06fe5d9685636390a5c5d.app",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitPageResource",
+      "id": "61553df3-d052-4cee-bf1c-65566ef717d2",
+      "path": "Page/61553df3-d052-4cee-bf1c-65566ef717d2.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [
+          {
+            "definitionId": "c86e9279-7213-4e99-9646-c65f9c98b9ca",
+            "name": "Flex Layout",
+            "version": "0.0.6"
+          }
+        ],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitPageResource",
+      "id": "cffcedf3-49ae-417b-8448-c949a1dc8b57",
+      "path": "Page/cffcedf3-49ae-417b-8448-c949a1dc8b57.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [
+          {
+            "definitionId": "0117fc77-b374-4d65-a962-464c5b9cd8b6",
+            "name": "Simple Columns",
+            "version": "0.0.2"
+          },
+          {
+            "definitionId": "4d92ae7a-db94-4d39-8db5-c91a364d214b",
+            "name": "Draggable grid layout",
+            "version": "0.0.9"
+          }
+        ],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitPageResource",
+      "id": "6f6363ce-a165-4f54-97fb-1baeecee69ae",
+      "path": "Page/6f6363ce-a165-4f54-97fb-1baeecee69ae.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitWorkspaceResource",
+      "id": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+      "path": "505ccaea-508d-4815-9aeb-420bd7a43f3a.workspace",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    }
+  ],
+  "environmentMappings": []
 }

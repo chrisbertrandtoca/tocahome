@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "cffcedf3-49ae-417b-8448-c949a1dc8b57",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-04-28T11:12:15Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "pageId": "cffcedf3-49ae-417b-8448-c949a1dc8b57",
+    "dashBoardId": "69f06fe5d9685636390a5c5d",
+    "title": "ipl",
+    "layout": "{\u0022version\u0022:\u00222\u0022,\u0022rootComponentId\u0022:\u0022c1ba041a-55a3-4ed1-a8ff-ad45c55e8626\u0022,\u0022components\u0022:{\u0022c1ba041a-55a3-4ed1-a8ff-ad45c55e8626\u0022:{\u0022id\u0022:\u0022c1ba041a-55a3-4ed1-a8ff-ad45c55e8626\u0022,\u0022definitionId\u0022:\u0022@tocabot/app/page-root\u0022,\u0022options\u0022:{},\u0022slots\u0022:{\u0022root\u0022:[\u0022216acd4a-bb21-4890-babd-cd86775fe6d5\u0022,\u0022d226017d-1092-44e1-8d4b-8d4c46d969f7\u0022]},\u0022classes\u0022:{\u0022root\u0022:[]}},\u0022216acd4a-bb21-4890-babd-cd86775fe6d5\u0022:{\u0022id\u0022:\u0022216acd4a-bb21-4890-babd-cd86775fe6d5\u0022,\u0022name\u0022:\u0022Simple Columns_HPZU\u0022,\u0022definitionId\u0022:\u00220117fc77-b374-4d65-a962-464c5b9cd8b6\u0022,\u0022slots\u0022:{\u0022slot-0\u0022:[],\u0022slot-1\u0022:[]},\u0022options\u0022:{\u0022count\u0022:2,\u0022breakpoint\u0022:\u0022sm\u0022,\u0022spacing\u0022:2},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}},\u0022d226017d-1092-44e1-8d4b-8d4c46d969f7\u0022:{\u0022id\u0022:\u0022d226017d-1092-44e1-8d4b-8d4c46d969f7\u0022,\u0022name\u0022:\u0022Draggable grid layout_leEN\u0022,\u0022definitionId\u0022:\u00224d92ae7a-db94-4d39-8db5-c91a364d214b\u0022,\u0022slots\u0022:{},\u0022options\u0022:{},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}}},\u0022viewports\u0022:{\u0022414\u0022:[],\u0022768\u0022:[],\u00221280\u0022:[],\u00221440\u0022:[]}}",
+    "parameters": [],
+    "deleted": false,
+    "version": "0.0.0",
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "cffcedf3-49ae-417b-8448-c949a1dc8b57",
+    "name": "ipl"
+  }
+}
