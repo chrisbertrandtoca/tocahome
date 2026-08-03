@@ -15,7 +15,12 @@
     {
       "type": "GitProjectResource",
       "id": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
-      "path": "Project/8d806f9a-c09d-47ca-8470-a1212fb147f1.project"
+      "path": "Project/8d806f9a-c09d-47ca-8470-a1212fb147f1.project",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     },
     {
       "type": "GitActivityResource",
@@ -46,22 +51,73 @@
     {
       "type": "GitListenerResource",
       "id": "6d8a6516-ed60-4180-86b2-9d13fd9a3236",
-      "path": "Listener/6d8a6516-ed60-4180-86b2-9d13fd9a3236.listener"
+      "path": "Listener/6d8a6516-ed60-4180-86b2-9d13fd9a3236.listener",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     },
     {
       "type": "GitListenerResource",
       "id": "60ec5b69-012d-4b19-baa4-d47c32a1d7cd",
-      "path": "Listener/60ec5b69-012d-4b19-baa4-d47c32a1d7cd.listener"
+      "path": "Listener/60ec5b69-012d-4b19-baa4-d47c32a1d7cd.listener",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     },
     {
       "type": "GitWorkflowResource",
       "id": "40194d73-e9f3-4d11-8e34-beba03cd3c4e",
-      "path": "Workflow/40194d73-e9f3-4d11-8e34-beba03cd3c4e.workflow"
+      "path": "Workflow/40194d73-e9f3-4d11-8e34-beba03cd3c4e.workflow",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     },
     {
       "type": "GitListenerResource",
       "id": "2c988b84-d4d2-436b-8f66-3bba7e422b51",
-      "path": "Listener/2c988b84-d4d2-436b-8f66-3bba7e422b51.listener"
+      "path": "Listener/2c988b84-d4d2-436b-8f66-3bba7e422b51.listener",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitAppResource",
+      "id": "6a707df26321c4079ee799f3",
+      "path": "App/6a707df26321c4079ee799f3.app",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitPageResource",
+      "id": "fd811b51-96fa-41b1-889d-c0a0163cd806",
+      "path": "Page/fd811b51-96fa-41b1-889d-c0a0163cd806.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [
+          {
+            "definitionId": "c86e9279-7213-4e99-9646-c65f9c98b9ca",
+            "name": "Flex Layout",
+            "version": "0.0.6"
+          },
+          {
+            "definitionId": "cfe16000-b20d-488e-b9a6-17e3123cbf36",
+            "name": "Form Layout",
+            "version": "1.3.2"
+          }
+        ],
+        "appActionsDetails": []
+      }
     }
   ],
   "environmentMappings": []

@@ -2,8 +2,8 @@
   "metadata": {
     "id": "6d8a6516-ed60-4180-86b2-9d13fd9a3236",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-08-03T11:20:19Z",
-    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "createdAt": "2026-08-03T11:38:29Z",
+    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -11,7 +11,13 @@
     "version": "",
     "public": true,
     "description": "l1",
-    "apiKeys": [],
+    "apiKeys": [
+      {
+        "name": "toca.app.6fe47b69-320e-443a-91a7-4100abb10113",
+        "expirationDate": "2100-01-01T00:00:00Z",
+        "key": "5db2b6a9-081e-44d4-be83-ab144cd653d3"
+      }
+    ],
     "inputs": [],
     "workflowId": "bacfe5f0-62d2-4f23-915f-b08faee62c75",
     "deactivated": false,

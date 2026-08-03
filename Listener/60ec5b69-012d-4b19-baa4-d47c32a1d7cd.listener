@@ -2,8 +2,8 @@
   "metadata": {
     "id": "60ec5b69-012d-4b19-baa4-d47c32a1d7cd",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-08-03T11:31:17Z",
-    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "createdAt": "2026-08-03T11:38:29Z",
+    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -16,6 +16,11 @@
         "name": "Untitled key",
         "expirationDate": "2026-09-02T11:31:08Z",
         "key": "3f142db3-76a4-4e34-9ed6-0e91d9f74de1"
+      },
+      {
+        "name": "toca.app.5256344e-f52e-425e-99c5-ab201da51be9",
+        "expirationDate": "2100-01-01T00:00:00Z",
+        "key": "a1a9432f-a70e-4a3b-b9ef-0205916f1349"
       }
     ],
     "inputs": [],

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "fd811b51-96fa-41b1-889d-c0a0163cd806",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-03T11:39:30Z",
+    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "pageId": "fd811b51-96fa-41b1-889d-c0a0163cd806",
+    "dashBoardId": "6a707df26321c4079ee799f3",
+    "title": "Home",
+    "layout": "{\u0022version\u0022:\u00222\u0022,\u0022rootComponentId\u0022:\u002266a7b2cf-9116-445b-8126-fa5e355f500b\u0022,\u0022components\u0022:{\u002266a7b2cf-9116-445b-8126-fa5e355f500b\u0022:{\u0022id\u0022:\u002266a7b2cf-9116-445b-8126-fa5e355f500b\u0022,\u0022definitionId\u0022:\u0022@tocabot/app/page-root\u0022,\u0022options\u0022:{},\u0022slots\u0022:{\u0022root\u0022:[\u00221062dcca-6dcf-472c-866c-ffa1892effcb\u0022]},\u0022classes\u0022:{\u0022root\u0022:[]}},\u00221062dcca-6dcf-472c-866c-ffa1892effcb\u0022:{\u0022id\u0022:\u00221062dcca-6dcf-472c-866c-ffa1892effcb\u0022,\u0022name\u0022:\u0022Flex Layout_tirN\u0022,\u0022definitionId\u0022:\u0022c86e9279-7213-4e99-9646-c65f9c98b9ca\u0022,\u0022slots\u0022:{\u0022root\u0022:[\u002219b6edc1-26dc-4069-9ebe-3b0b1ea43d4a\u0022]},\u0022options\u0022:{\u0022spaceBetween\u0022:0,\u0022align\u0022:\u0022stretch\u0022,\u0022justify\u0022:\u0022start\u0022,\u0022direction\u0022:1},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}},\u002219b6edc1-26dc-4069-9ebe-3b0b1ea43d4a\u0022:{\u0022id\u0022:\u002219b6edc1-26dc-4069-9ebe-3b0b1ea43d4a\u0022,\u0022name\u0022:\u0022Form Layout_iDuS\u0022,\u0022definitionId\u0022:\u0022cfe16000-b20d-488e-b9a6-17e3123cbf36\u0022,\u0022slots\u0022:{\u0022form\u0022:[]},\u0022options\u0022:{\u0022datastoreFormFields\u0022:[],\u0022ipvKeys\u0022:[],\u0022successMessage\u0022:\u0022Form submitted.\u0022,\u0022errorMessage\u0022:\u0022Failed to submit form.\u0022,\u0022completeMessage\u0022:\u0022Workflow complete.\u0022,\u0022openOnSubmit\u0022:false,\u0022openModal\u0022:false,\u0022formType\u0022:\u0022listener\u0022,\u0022datastoreVariablePrefix\u0022:\u0022\u0022,\u0022userInfoInputKey\u0022:\u0022\u0022,\u0022blankFormValuesAfterSubmission\u0022:true,\u0022ipvPrefix\u0022:\u0022\u0022,\u0022ipvOnChange\u0022:true,\u0022storageType\u0022:\u0022Persistent\u0022,\u0022formContextListenerName\u0022:\u002219b6edc1-26dc-4069-9ebe-3b0b1ea43d4a_formContext\u0022,\u0022listenerName\u0022:\u0022jules\u0022},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}}},\u0022viewports\u0022:{\u0022414\u0022:[],\u0022768\u0022:[],\u00221280\u0022:[],\u00221440\u0022:[]}}",
+    "parameters": [],
+    "deleted": false,
+    "version": "0.0.0",
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "fd811b51-96fa-41b1-889d-c0a0163cd806",
+    "name": "Home"
+  }
+}
