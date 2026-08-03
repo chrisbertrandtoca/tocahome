@@ -1,4 +1,53 @@
 {
   "version": 1,
-  "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a"
+  "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+  "resources": [
+    {
+      "type": "GitWorkspaceResource",
+      "id": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+      "path": "505ccaea-508d-4815-9aeb-420bd7a43f3a.workspace",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitProjectResource",
+      "id": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+      "path": "Project/8d806f9a-c09d-47ca-8470-a1212fb147f1.project"
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "71ff667a-9bf3-408c-8187-c5eca8baceb4",
+      "path": "Activity/71ff667a-9bf3-408c-8187-c5eca8baceb4.activity",
+      "dependencies": {
+        "actionDetails": [
+          {
+            "definitionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+            "name": "Debug Value",
+            "version": "1.0.2"
+          }
+        ],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitWorkflowResource",
+      "id": "bacfe5f0-62d2-4f23-915f-b08faee62c75",
+      "path": "Workflow/bacfe5f0-62d2-4f23-915f-b08faee62c75.workflow",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitListenerResource",
+      "id": "6d8a6516-ed60-4180-86b2-9d13fd9a3236",
+      "path": "Listener/6d8a6516-ed60-4180-86b2-9d13fd9a3236.listener"
+    }
+  ],
+  "environmentMappings": []
 }

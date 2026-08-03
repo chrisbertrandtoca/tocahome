@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "id": "6d8a6516-ed60-4180-86b2-9d13fd9a3236",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-03T11:20:19Z",
+    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "listenerId": "6d8a6516-ed60-4180-86b2-9d13fd9a3236",
+    "version": "",
+    "public": true,
+    "description": "l1",
+    "apiKeys": [],
+    "inputs": [],
+    "workflowId": "bacfe5f0-62d2-4f23-915f-b08faee62c75",
+    "deactivated": false,
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "6d8a6516-ed60-4180-86b2-9d13fd9a3236",
+    "name": "l1-1"
+  }
+}
