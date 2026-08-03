@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "60ec5b69-012d-4b19-baa4-d47c32a1d7cd",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-03T11:31:17Z",
+    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "listenerId": "60ec5b69-012d-4b19-baa4-d47c32a1d7cd",
+    "version": "",
+    "public": false,
+    "description": "asaa",
+    "apiKeys": [
+      {
+        "name": "Untitled key",
+        "expirationDate": "2026-09-02T11:31:08Z",
+        "key": "3f142db3-76a4-4e34-9ed6-0e91d9f74de1"
+      }
+    ],
+    "inputs": [],
+    "workflowId": "bacfe5f0-62d2-4f23-915f-b08faee62c75",
+    "deactivated": false,
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "60ec5b69-012d-4b19-baa4-d47c32a1d7cd",
+    "name": "authrf"
+  }
+}

@@ -47,6 +47,11 @@
       "type": "GitListenerResource",
       "id": "6d8a6516-ed60-4180-86b2-9d13fd9a3236",
       "path": "Listener/6d8a6516-ed60-4180-86b2-9d13fd9a3236.listener"
+    },
+    {
+      "type": "GitListenerResource",
+      "id": "60ec5b69-012d-4b19-baa4-d47c32a1d7cd",
+      "path": "Listener/60ec5b69-012d-4b19-baa4-d47c32a1d7cd.listener"
     }
   ],
   "environmentMappings": []
