@@ -52,6 +52,16 @@
       "type": "GitListenerResource",
       "id": "60ec5b69-012d-4b19-baa4-d47c32a1d7cd",
       "path": "Listener/60ec5b69-012d-4b19-baa4-d47c32a1d7cd.listener"
+    },
+    {
+      "type": "GitWorkflowResource",
+      "id": "40194d73-e9f3-4d11-8e34-beba03cd3c4e",
+      "path": "Workflow/40194d73-e9f3-4d11-8e34-beba03cd3c4e.workflow"
+    },
+    {
+      "type": "GitListenerResource",
+      "id": "2c988b84-d4d2-436b-8f66-3bba7e422b51",
+      "path": "Listener/2c988b84-d4d2-436b-8f66-3bba7e422b51.listener"
     }
   ],
   "environmentMappings": []
