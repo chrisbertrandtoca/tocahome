@@ -1,14 +1,10 @@
 {
   "metadata": {
     "id": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
-    "contentHash": "/U5Zo513GwHJXlJe1Fajh8\u002BFsyMvEY3jkMQmtMxE4Eg=",
     "platformVersion": "10.0.0",
-    "revisionId": "0f394847-f108-45ff-bf52-acd3663e391f",
-    "updatedAt": "2026-03-30T11:11:57Z",
-    "updatedBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
-    "createdAt": "2026-03-30T11:07:33Z",
-    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
-    "branch": "main"
+    "createdAt": "2026-08-03T11:38:28Z",
+    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "schemaVersion": "1.0.0"
   },
   "content": {
     "id": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
@@ -16,6 +12,8 @@
     "accent": "#bf5ebf",
     "route": "take-me-home",
     "description": "Space for home purchasing",
+    "cmsEnabled": false,
+    "repositoryUrl": "https://github.com/chrisbertrandtoca/tocahome.git",
     "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
     "resourceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
     "name": "Take me home"
