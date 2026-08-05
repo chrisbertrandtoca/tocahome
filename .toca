@@ -118,7 +118,43 @@
         ],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "04fac435-8c34-4d64-9789-906e818ec2a6",
+      "path": "Activity/04fac435-8c34-4d64-9789-906e818ec2a6.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "a7738d80-a2d9-490c-a876-c00991bf19db",
+      "path": "Activity/a7738d80-a2d9-490c-a876-c00991bf19db.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "a84e0fe0-6fe8-4305-8a17-77f2a07ac46d",
+      "path": "Activity/a84e0fe0-6fe8-4305-8a17-77f2a07ac46d.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
-  "environmentMappings": []
+  "environmentMappings": [
+    {
+      "resourceType": "BotPool",
+      "aliasKey": "pool-New bot pool",
+      "aliasValue": "alias:pool-New bot pool"
+    }
+  ]
 }
