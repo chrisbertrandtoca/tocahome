@@ -222,6 +222,26 @@
         "componentDetails": [],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "f9b1d2da-ce0a-4bcd-bfe7-e772d0b40c41",
+      "path": "Activity/f9b1d2da-ce0a-4bcd-bfe7-e772d0b40c41.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitWorkflowResource",
+      "id": "41aa318f-b875-4eb0-9740-2eaeb8b00905",
+      "path": "Workflow/41aa318f-b875-4eb0-9740-2eaeb8b00905.workflow",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
   "environmentMappings": [

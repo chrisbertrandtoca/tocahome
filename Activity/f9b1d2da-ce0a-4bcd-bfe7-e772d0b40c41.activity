@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "id": "f9b1d2da-ce0a-4bcd-bfe7-e772d0b40c41",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-06T15:54:14Z",
+    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+    "description": "asda",
+    "associatedUserId": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "f9b1d2da-ce0a-4bcd-bfe7-e772d0b40c41",
+    "name": "more changes wiull be deleted on the other side"
+  }
+}
