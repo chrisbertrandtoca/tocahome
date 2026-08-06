@@ -102,7 +102,95 @@
         ],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "c79b4c04-2f72-4917-a18c-c963514aeed8",
+      "path": "Activity/c79b4c04-2f72-4917-a18c-c963514aeed8.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "b2a24d20-9a94-4531-aa1e-288dd4b456ba",
+      "path": "Activity/b2a24d20-9a94-4531-aa1e-288dd4b456ba.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "97318baa-0114-47d2-a030-a881c7c96f8c",
+      "path": "Activity/97318baa-0114-47d2-a030-a881c7c96f8c.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "dcbc706a-0a1d-4b83-a098-b7c973c00db0",
+      "path": "Activity/dcbc706a-0a1d-4b83-a098-b7c973c00db0.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "ae734f8a-cb9d-432d-929e-afcc056a634b",
+      "path": "Activity/ae734f8a-cb9d-432d-929e-afcc056a634b.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "e9be7bdb-710f-4b82-b5c2-7336d796ddec",
+      "path": "Activity/e9be7bdb-710f-4b82-b5c2-7336d796ddec.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
-  "environmentMappings": []
+  "environmentMappings": [
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Beta-Bot-0001",
+      "aliasValue": "alias:bot-Beta-Bot-0001",
+      "referencedByResourceIds": [
+        "c79b4c04-2f72-4917-a18c-c963514aeed8",
+        "dcbc706a-0a1d-4b83-a098-b7c973c00db0"
+      ]
+    },
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Beta-Bot-0002",
+      "aliasValue": "alias:bot-Beta-Bot-0002",
+      "referencedByResourceIds": [
+        "b2a24d20-9a94-4531-aa1e-288dd4b456ba",
+        "ae734f8a-cb9d-432d-929e-afcc056a634b"
+      ]
+    },
+    {
+      "resourceType": "BotPool",
+      "aliasKey": "pool-Stateless - Non Twenty 4 Seven Bots",
+      "aliasValue": "alias:pool-Stateless - Non Twenty 4 Seven Bots",
+      "referencedByResourceIds": [
+        "97318baa-0114-47d2-a030-a881c7c96f8c",
+        "e9be7bdb-710f-4b82-b5c2-7336d796ddec"
+      ]
+    }
+  ]
 }
