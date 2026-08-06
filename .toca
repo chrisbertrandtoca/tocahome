@@ -171,8 +171,8 @@
     },
     {
       "type": "GitActivityResource",
-      "id": "5b3d376f-567a-43f2-91f4-29a14df18d6d",
-      "path": "Activity/5b3d376f-567a-43f2-91f4-29a14df18d6d.activity",
+      "id": "910c308d-c15a-4843-a109-363fa8e27650",
+      "path": "Activity/910c308d-c15a-4843-a109-363fa8e27650.activity",
       "dependencies": {
         "actionDetails": [],
         "componentDetails": [],
@@ -226,7 +226,7 @@
       "aliasKey": "pool-Pool2",
       "aliasValue": "alias:pool-Pool2",
       "referencedByResourceIds": [
-        "5b3d376f-567a-43f2-91f4-29a14df18d6d"
+        "910c308d-c15a-4843-a109-363fa8e27650"
       ]
     }
   ]

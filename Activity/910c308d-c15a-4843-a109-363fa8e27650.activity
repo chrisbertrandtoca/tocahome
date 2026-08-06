@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "id": "5b3d376f-567a-43f2-91f4-29a14df18d6d",
+    "id": "910c308d-c15a-4843-a109-363fa8e27650",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-08-06T10:46:45Z",
+    "createdAt": "2026-08-06T11:03:09Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "schemaVersion": "1.0.0"
   },
   "content": {
     "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
-    "description": "1111",
+    "description": "4",
     "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "botIds": [],
     "botPoolId": "alias:pool-Pool2",
@@ -21,7 +21,7 @@
     "activityServiceType": "Gui",
     "migratedToBotUuid": false,
     "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
-    "resourceId": "5b3d376f-567a-43f2-91f4-29a14df18d6d",
-    "name": "lp3"
+    "resourceId": "910c308d-c15a-4843-a109-363fa8e27650",
+    "name": "lbp4"
   }
 }
