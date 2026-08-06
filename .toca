@@ -148,6 +148,16 @@
         "componentDetails": [],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "999eef4e-1d5d-4a5d-9839-c9782de05c9c",
+      "path": "Activity/999eef4e-1d5d-4a5d-9839-c9782de05c9c.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
   "environmentMappings": [
@@ -165,6 +175,14 @@
       "aliasValue": "alias:bot-Beta-Bot-0002",
       "referencedByResourceIds": [
         "a7738d80-a2d9-490c-a876-c00991bf19db"
+      ]
+    },
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Beta-Bot-0003",
+      "aliasValue": "alias:bot-Beta-Bot-0003",
+      "referencedByResourceIds": [
+        "999eef4e-1d5d-4a5d-9839-c9782de05c9c"
       ]
     },
     {
