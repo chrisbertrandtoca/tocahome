@@ -246,6 +246,14 @@
     },
     {
       "resourceType": "BotPool",
+      "aliasKey": "pool-Energy Portal Pool",
+      "aliasValue": "alias:pool-Energy Portal Pool",
+      "referencedByResourceIds": [
+        "a19b1b9c-ca32-45f4-8ba8-342a2dfe4e71"
+      ]
+    },
+    {
+      "resourceType": "BotPool",
       "aliasKey": "pool-Pool",
       "aliasValue": "alias:pool-Pool",
       "referencedByResourceIds": [
@@ -258,8 +266,7 @@
       "aliasKey": "pool-Pool 1710",
       "aliasValue": "alias:pool-Pool 1710",
       "referencedByResourceIds": [
-        "d2395d37-ab8a-4313-b7f2-dd531a621654",
-        "a19b1b9c-ca32-45f4-8ba8-342a2dfe4e71"
+        "d2395d37-ab8a-4313-b7f2-dd531a621654"
       ]
     }
   ]
