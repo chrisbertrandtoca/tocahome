@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "id": "f757479a-ef54-4055-ba89-1fab4502fa07",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-06T14:59:30Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+    "description": "aaaa",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "f757479a-ef54-4055-ba89-1fab4502fa07",
+    "name": "local 2"
+  }
+}
