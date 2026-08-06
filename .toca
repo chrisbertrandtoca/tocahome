@@ -236,18 +236,11 @@
     },
     {
       "resourceType": "BotPool",
-      "aliasKey": "pool-New bot pool",
-      "aliasValue": "alias:pool-New bot pool",
-      "referencedByResourceIds": [
-        "51f1be45-86f3-43dd-8573-2c1d554c562d"
-      ]
-    },
-    {
-      "resourceType": "BotPool",
       "aliasKey": "pool-Pool",
       "aliasValue": "alias:pool-Pool",
       "referencedByResourceIds": [
-        "f31aef8b-fdfc-4815-875b-440c1569c6be"
+        "f31aef8b-fdfc-4815-875b-440c1569c6be",
+        "51f1be45-86f3-43dd-8573-2c1d554c562d"
       ]
     },
     {

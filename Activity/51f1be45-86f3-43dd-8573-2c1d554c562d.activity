@@ -3,7 +3,7 @@
     "id": "51f1be45-86f3-43dd-8573-2c1d554c562d",
     "platformVersion": "10.0.0",
     "createdAt": "2026-08-06T11:59:01Z",
-    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -11,7 +11,7 @@
     "description": "aaa",
     "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "botIds": [],
-    "botPoolId": "alias:pool-New bot pool",
+    "botPoolId": "alias:pool-Pool",
     "version": 1,
     "actions": [],
     "variableMappings": [],
