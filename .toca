@@ -138,6 +138,16 @@
         "componentDetails": [],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "09dec709-91cc-4120-988f-f73b03d01daf",
+      "path": "Activity/09dec709-91cc-4120-988f-f73b03d01daf.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
   "environmentMappings": [
@@ -155,6 +165,14 @@
       "aliasValue": "alias:bot-Beta-Bot-0002",
       "referencedByResourceIds": [
         "a7738d80-a2d9-490c-a876-c00991bf19db"
+      ]
+    },
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Chris",
+      "aliasValue": "alias:bot-Chris",
+      "referencedByResourceIds": [
+        "09dec709-91cc-4120-988f-f73b03d01daf"
       ]
     }
   ]
