@@ -242,6 +242,26 @@
         "componentDetails": [],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitDatastoreResource",
+      "id": "0b523f52-3841-47dd-bfd9-2d0016822121",
+      "path": "Datastore/0b523f52-3841-47dd-bfd9-2d0016822121.datastore",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "b11b112b-55de-4f19-be56-21b2e15ae641",
+      "path": "Activity/b11b112b-55de-4f19-be56-21b2e15ae641.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
   "environmentMappings": [
