@@ -168,16 +168,6 @@
         "componentDetails": [],
         "appActionsDetails": []
       }
-    },
-    {
-      "type": "GitActivityResource",
-      "id": "910c308d-c15a-4843-a109-363fa8e27650",
-      "path": "Activity/910c308d-c15a-4843-a109-363fa8e27650.activity",
-      "dependencies": {
-        "actionDetails": [],
-        "componentDetails": [],
-        "appActionsDetails": []
-      }
     }
   ],
   "environmentMappings": [
@@ -219,14 +209,6 @@
       "aliasValue": "alias:pool-Pool 1710",
       "referencedByResourceIds": [
         "d2395d37-ab8a-4313-b7f2-dd531a621654"
-      ]
-    },
-    {
-      "resourceType": "BotPool",
-      "aliasKey": "pool-Pool2",
-      "aliasValue": "alias:pool-Pool2",
-      "referencedByResourceIds": [
-        "910c308d-c15a-4843-a109-363fa8e27650"
       ]
     }
   ]
