@@ -171,8 +171,8 @@
     },
     {
       "type": "GitActivityResource",
-      "id": "083f024c-8173-4b19-8ece-a3b2eaf6e0ca",
-      "path": "Activity/083f024c-8173-4b19-8ece-a3b2eaf6e0ca.activity",
+      "id": "54b82e16-f687-4f16-9c24-0cd38d937a3f",
+      "path": "Activity/54b82e16-f687-4f16-9c24-0cd38d937a3f.activity",
       "dependencies": {
         "actionDetails": [],
         "componentDetails": [],
@@ -215,18 +215,18 @@
     },
     {
       "resourceType": "BotPool",
-      "aliasKey": "pool-Pool 1710",
-      "aliasValue": "alias:pool-Pool 1710",
+      "aliasKey": "pool-Pool",
+      "aliasValue": "alias:pool-Pool",
       "referencedByResourceIds": [
-        "d2395d37-ab8a-4313-b7f2-dd531a621654"
+        "54b82e16-f687-4f16-9c24-0cd38d937a3f"
       ]
     },
     {
       "resourceType": "BotPool",
-      "aliasKey": "pool-Pool2",
-      "aliasValue": "alias:pool-Pool2",
+      "aliasKey": "pool-Pool 1710",
+      "aliasValue": "alias:pool-Pool 1710",
       "referencedByResourceIds": [
-        "083f024c-8173-4b19-8ece-a3b2eaf6e0ca"
+        "d2395d37-ab8a-4313-b7f2-dd531a621654"
       ]
     }
   ]
