@@ -236,6 +236,14 @@
     },
     {
       "resourceType": "BotPool",
+      "aliasKey": "pool-New bot pool",
+      "aliasValue": "alias:pool-New bot pool",
+      "referencedByResourceIds": [
+        "51f1be45-86f3-43dd-8573-2c1d554c562d"
+      ]
+    },
+    {
+      "resourceType": "BotPool",
       "aliasKey": "pool-Pool",
       "aliasValue": "alias:pool-Pool",
       "referencedByResourceIds": [
@@ -248,14 +256,6 @@
       "aliasValue": "alias:pool-Pool 1710",
       "referencedByResourceIds": [
         "d2395d37-ab8a-4313-b7f2-dd531a621654"
-      ]
-    },
-    {
-      "resourceType": "BotPool",
-      "aliasKey": "pool-Stateless - Non Twenty 4 Seven Bots",
-      "aliasValue": "alias:pool-Stateless - Non Twenty 4 Seven Bots",
-      "referencedByResourceIds": [
-        "51f1be45-86f3-43dd-8573-2c1d554c562d"
       ]
     }
   ]
