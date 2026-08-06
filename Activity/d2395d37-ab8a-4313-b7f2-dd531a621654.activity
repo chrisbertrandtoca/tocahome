@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "id": "d2395d37-ab8a-4313-b7f2-dd531a621654",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-06T10:30:43Z",
+    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+    "description": "aaaa",
+    "associatedUserId": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "botIds": [],
+    "botPoolId": "alias:pool-Pool 1710",
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Gui",
+    "migratedToBotUuid": false,
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "d2395d37-ab8a-4313-b7f2-dd531a621654",
+    "name": "bp1"
+  }
+}
