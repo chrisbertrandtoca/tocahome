@@ -198,6 +198,16 @@
         "componentDetails": [],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "a19b1b9c-ca32-45f4-8ba8-342a2dfe4e71",
+      "path": "Activity/a19b1b9c-ca32-45f4-8ba8-342a2dfe4e71.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
   "environmentMappings": [
@@ -223,6 +233,14 @@
       "aliasValue": "alias:bot-Beta-Bot-0003",
       "referencedByResourceIds": [
         "999eef4e-1d5d-4a5d-9839-c9782de05c9c"
+      ]
+    },
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Beta-Bot-Twenty4Seven",
+      "aliasValue": "alias:bot-Beta-Bot-Twenty4Seven",
+      "referencedByResourceIds": [
+        "a19b1b9c-ca32-45f4-8ba8-342a2dfe4e71"
       ]
     },
     {
