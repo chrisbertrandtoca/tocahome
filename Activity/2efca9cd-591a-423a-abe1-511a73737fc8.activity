@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "id": "2efca9cd-591a-423a-abe1-511a73737fc8",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-06T14:39:15Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+    "description": "\u0060asd",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "2efca9cd-591a-423a-abe1-511a73737fc8",
+    "name": "local change incoming"
+  }
+}
