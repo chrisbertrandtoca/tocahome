@@ -3,16 +3,15 @@
     "id": "a19b1b9c-ca32-45f4-8ba8-342a2dfe4e71",
     "platformVersion": "10.0.0",
     "createdAt": "2026-08-06T12:24:15Z",
-    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "schemaVersion": "1.0.0"
   },
   "content": {
     "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
     "description": "re botttyfy",
     "associatedUserId": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
-    "botIds": [
-      "alias:bot-Beta-Bot-Twenty4Seven"
-    ],
+    "botIds": [],
+    "botPoolId": "alias:pool-Pool 1710",
     "version": 1,
     "actions": [],
     "variableMappings": [],
