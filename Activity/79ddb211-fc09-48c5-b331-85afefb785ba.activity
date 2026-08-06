@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "79ddb211-fc09-48c5-b331-85afefb785ba",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-06T11:56:27Z",
+    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
+    "description": "asd",
+    "associatedUserId": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "botIds": [
+      "alias:bot-Beta-Bot-0001"
+    ],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Gui",
+    "migratedToBotUuid": false,
+    "workspaceId": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
+    "resourceId": "79ddb211-fc09-48c5-b331-85afefb785ba",
+    "name": "beta will diss"
+  }
+}
