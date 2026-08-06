@@ -172,6 +172,16 @@
         "componentDetails": [],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "8b1227cd-aef6-4ca4-9fa4-9503375bcdc1",
+      "path": "Activity/8b1227cd-aef6-4ca4-9fa4-9503375bcdc1.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
   "environmentMappings": [
