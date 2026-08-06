@@ -168,6 +168,36 @@
         "componentDetails": [],
         "appActionsDetails": []
       }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "4320ef51-371c-40ad-817b-8e15871a20e2",
+      "path": "Activity/4320ef51-371c-40ad-817b-8e15871a20e2.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "51f1be45-86f3-43dd-8573-2c1d554c562d",
+      "path": "Activity/51f1be45-86f3-43dd-8573-2c1d554c562d.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "f31aef8b-fdfc-4815-875b-440c1569c6be",
+      "path": "Activity/f31aef8b-fdfc-4815-875b-440c1569c6be.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
     }
   ],
   "environmentMappings": [
@@ -200,7 +230,17 @@
       "aliasKey": "bot-Chris",
       "aliasValue": "alias:bot-Chris",
       "referencedByResourceIds": [
-        "09dec709-91cc-4120-988f-f73b03d01daf"
+        "09dec709-91cc-4120-988f-f73b03d01daf",
+        "4320ef51-371c-40ad-817b-8e15871a20e2"
+      ]
+    },
+    {
+      "resourceType": "BotPool",
+      "aliasKey": "pool-Pool",
+      "aliasValue": "alias:pool-Pool",
+      "referencedByResourceIds": [
+        "51f1be45-86f3-43dd-8573-2c1d554c562d",
+        "f31aef8b-fdfc-4815-875b-440c1569c6be"
       ]
     },
     {
