@@ -5,22 +5,12 @@
     {
       "type": "GitWorkspaceResource",
       "id": "505ccaea-508d-4815-9aeb-420bd7a43f3a",
-      "path": "505ccaea-508d-4815-9aeb-420bd7a43f3a.workspace",
-      "dependencies": {
-        "actionDetails": [],
-        "componentDetails": [],
-        "appActionsDetails": []
-      }
+      "path": "505ccaea-508d-4815-9aeb-420bd7a43f3a.workspace"
     },
     {
       "type": "GitProjectResource",
       "id": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
-      "path": "Project/8d806f9a-c09d-47ca-8470-a1212fb147f1.project",
-      "dependencies": {
-        "actionDetails": [],
-        "componentDetails": [],
-        "appActionsDetails": []
-      }
+      "path": "Project/8d806f9a-c09d-47ca-8470-a1212fb147f1.project"
     },
     {
       "type": "GitWorkflowResource",
@@ -35,12 +25,7 @@
     {
       "type": "GitListenerResource",
       "id": "6d8a6516-ed60-4180-86b2-9d13fd9a3236",
-      "path": "Listener/6d8a6516-ed60-4180-86b2-9d13fd9a3236.listener",
-      "dependencies": {
-        "actionDetails": [],
-        "componentDetails": [],
-        "appActionsDetails": []
-      }
+      "path": "Listener/6d8a6516-ed60-4180-86b2-9d13fd9a3236.listener"
     },
     {
       "type": "GitListenerResource",
@@ -166,12 +151,7 @@
     {
       "type": "GitActivityResource",
       "id": "0428e5bc-65e8-41bb-8ee5-a2272f78f373",
-      "path": "Activity/0428e5bc-65e8-41bb-8ee5-a2272f78f373.activity",
-      "dependencies": {
-        "actionDetails": [],
-        "componentDetails": [],
-        "appActionsDetails": []
-      }
+      "path": "Activity/0428e5bc-65e8-41bb-8ee5-a2272f78f373.activity"
     },
     {
       "type": "GitActivityResource",
@@ -247,6 +227,14 @@
   "environmentMappings": [
     {
       "resourceType": "Bot",
+      "aliasKey": "bot-97ff608c-1b23-4078-a9a3-f926397fbd12",
+      "aliasValue": "alias:bot-97ff608c-1b23-4078-a9a3-f926397fbd12",
+      "referencedByResourceIds": [
+        "0428e5bc-65e8-41bb-8ee5-a2272f78f373"
+      ]
+    },
+    {
+      "resourceType": "Bot",
       "aliasKey": "bot-Beta-Bot-0001",
       "aliasValue": "alias:bot-Beta-Bot-0001",
       "referencedByResourceIds": [
@@ -261,14 +249,6 @@
       "referencedByResourceIds": [
         "b2a24d20-9a94-4531-aa1e-288dd4b456ba",
         "ae734f8a-cb9d-432d-929e-afcc056a634b"
-      ]
-    },
-    {
-      "resourceType": "Bot",
-      "aliasKey": "bot-Beta-Bot-0003",
-      "aliasValue": "alias:bot-Beta-Bot-0003",
-      "referencedByResourceIds": [
-        "0428e5bc-65e8-41bb-8ee5-a2272f78f373"
       ]
     },
     {

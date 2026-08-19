@@ -3,18 +3,53 @@
     "id": "0428e5bc-65e8-41bb-8ee5-a2272f78f373",
     "platformVersion": "10.0.0",
     "createdAt": "2026-08-06T13:28:08Z",
-    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "schemaVersion": "1.0.0"
   },
   "content": {
     "projectId": "8d806f9a-c09d-47ca-8470-a1212fb147f1",
     "description": "1",
-    "associatedUserId": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
     "botIds": [
-      "alias:bot-Beta-Bot-0003"
+      "alias:bot-97ff608c-1b23-4078-a9a3-f926397fbd12"
     ],
     "version": 1,
-    "actions": [],
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "originId": "2fbd031a-07d1-53c4-f318-3e30b9716f82",
+        "actionId": "7116cd4f-4ee6-4d14-8eda-82894eaf8cf8",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      }
+    ],
     "variableMappings": [],
     "outputMappings": [],
     "metaData": [],
